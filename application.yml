@@ -1,0 +1,4 @@
+webclient:
+  connection:
+    timeout: 3000
+    reply: 4
