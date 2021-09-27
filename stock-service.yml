@@ -1,0 +1,5 @@
+api:
+  rates-service:
+    url: http://rates-service/rates
+  users-service:
+    url: http://users-service/users
